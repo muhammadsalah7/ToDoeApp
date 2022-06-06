@@ -1,6 +1,6 @@
 # todoey_flutter
 
-A new Flutter project.
+A simple To-Do list app .
 
 ## Getting Started
 
